@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi there, I'm Parth 👋<br><br>-> CSE Student at IIIT Kota  <br>-> Pursuing BS in Data Science from IIT Madras  <br>-> Full-Stack Web Developer<br>-> Currently learning and building with React, Next.js, Node.js, Fastify, MongoDB, PostgreSQL, and Docker  <br>-> Interested in Security, System Design, and building large-scale projects  <br>-> Exploring Web Development, Cybersecurity, DSA, and real-world Software Engineering  <br>-> Building projects to strengthen problem-solving and development skills<br><br>> Learning consistently, building step by step, and turning ideas into projects.
+ Hi there, I'm Parth 👋<br><br>-> CSE Student at IIIT Kota   <br>-> Full-Stack Web Developer<br>-> Currently learning and building with React, Next.js, Node.js, Fastify, MongoDB, PostgreSQL, and Docker  <br>-> Interested in Security, System Design, and building large-scale projects  <br>-> Exploring Web Development, Cybersecurity, DSA, and real-world Software Engineering  <br>-> Building projects to strengthen problem-solving and development skills<br><br>> Learning consistently, building step by step, and turning ideas into projects.
 
 
 ## 🌐 Socials:
